@@ -9,10 +9,6 @@ class slicers:
 
 
 
-	def __str__(self):
-
-		print(f'Logitud del corte {self.cut_lenght} y archivo fuente \n {self.source_file.head}')
-
 
 
 
